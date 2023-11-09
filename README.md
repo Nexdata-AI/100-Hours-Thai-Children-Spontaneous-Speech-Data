@@ -21,3 +21,4 @@ annotation for the transcription text, speaker identification, gender;
 Word Accuracy Rate (WAR) at least 98%.
 
 # Licensing Information
+Commercial License
